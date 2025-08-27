@@ -1,14 +1,7 @@
-#  🚗 Proyecto Integrador — Logística, Cadena de Suministro & Data Science (Caso Automotriz)
-
-## 📌 Descripción General
-Este proyecto es un **laboratorio educativo** para aprender a diseñar, simular y evaluar una **cadena de suministro automotriz** usando **Python** y **datos sintéticos**.  
-Tomamos como referencia un caso tipo *Stellantis* y lo llevamos paso a paso, aplicando conceptos de **Logística, Analítica de Datos y Ciencia de Datos**.
-
-El objetivo no es solo programar, sino **entender cómo la tecnología puede transformar la logística moderna**.
-
+<div style="background-color: #e6f2ff; padding: 15px; border-radius: 5px; border-left: 4px solid #0066cc; margin-bottom: 20px;"> <strong>Descripción General</strong> <p>Este proyecto es un <strong>laboratorio educativo</strong> para aprender a diseñar, simular y evaluar una <strong>cadena de suministro automotriz</strong> usando <strong>Python</strong> y <strong>datos sintéticos</strong>.</p> <p>Tomamos como referencia un caso tipo <em>Stellantis</em> y lo llevamos paso a paso, aplicando conceptos de <strong>Logística, Analítica de Datos y Ciencia de Datos</strong>.</p> <p>El objetivo no es solo programar, sino <strong>entender cómo la tecnología puede transformar la logística moderna</strong>.</p> </div>
 ---
 
-## 🎯 Objetivo Didáctico
+##  Objetivo Didáctico
 Que los alumnos aprendan a:
 - Leer, limpiar y analizar datos logísticos.
 - Calcular **KPIs clave** (OTIF, Fill Rate, Lead Time).
@@ -19,7 +12,7 @@ Que los alumnos aprendan a:
 
 ---
 
-## 📂 Estructura del Repositorio
+##  Estructura del Repositorio
 /data
 /raw → datos originales (sintéticos)
 /processed → datos transformados
@@ -38,7 +31,7 @@ U0_setup.ipynb
 
 ---
 
-## 🛠️ Tecnologías y Librerías
+##  Tecnologías y Librerías
 - **Python 3**
 - pandas, numpy, matplotlib  
 - scikit-learn (analítica básica)  
@@ -48,7 +41,7 @@ U0_setup.ipynb
 
 ---
 
-## 📚 Itinerario de Aprendizaje
+##  Itinerario de Aprendizaje
 - **Fase 0:** Preparación del entorno y datos sintéticos iniciales.
 - **Fase 1:** KPIs (OTIF, Fill Rate, Lead Time).
 - **Fase 2:** Diseño de la cadena (S&OP, MRP, proveedores).
@@ -59,7 +52,7 @@ U0_setup.ipynb
 
 ---
 
-## 🚀 Metodología
+##  Metodología
 1. **Aprendizaje paso a paso**: teoría mínima + código corto.  
 2. **Tareas guiadas**: cada unidad tiene entregables claros.  
 3. **Validación continua**: se revisan errores y se proponen soluciones.  
@@ -67,7 +60,7 @@ U0_setup.ipynb
 
 ---
 
-## 🏆 Resultados Esperados
+##  Resultados Esperados
 - Notebooks limpios y bien documentados.  
 - Datos sintéticos reproducibles (CSV).  
 - Gráficas y KPIs claros para la toma de decisiones.  
