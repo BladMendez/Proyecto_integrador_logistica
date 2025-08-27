@@ -1,5 +1,6 @@
 <div style="background-color: #e6f2ff; padding: 15px; border-radius: 5px; border-left: 4px solid #0066cc; margin-bottom: 20px;"> <strong>Descripción General</strong> <p>Este proyecto es un <strong>laboratorio educativo</strong> para aprender a diseñar, simular y evaluar una <strong>cadena de suministro automotriz</strong> usando <strong>Python</strong> y <strong>datos sintéticos</strong>.</p> <p>Tomamos como referencia un caso tipo <em>Stellantis</em> y lo llevamos paso a paso, aplicando conceptos de <strong>Logística, Analítica de Datos y Ciencia de Datos</strong>.</p> <p>El objetivo no es solo programar, sino <strong>entender cómo la tecnología puede transformar la logística moderna</strong>.</p> </div>
----
+
+
 
 ##  Objetivo Didáctico
 Que los alumnos aprendan a:
