@@ -1,0 +1,4 @@
+id_pedido,cliente,cantidad,fecha_pedido
+1,Stellantis,100,2025-09-01
+2,GM,200,2025-09-02
+3,Ford,150,2025-09-03
